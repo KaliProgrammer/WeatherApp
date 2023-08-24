@@ -1,12 +1,12 @@
 # WeatherApp
 
 * Swift 5+
-* The layout is done by code.
-* SPM for exterior dependencies - have been used (SnapKit).
+* The layout is done programmatically.
+* SPM for external dependencies have been used (SnapKit).
+* Combine for data binding.
 * MVVM-C Architecture.
-* Combine
 
-Tha background image of the screen depends on the state of weather.
+Tha background image of the screen depends on the state of the weather.
 
   <img width="150" alt="Screenshot 2023-08-24 at 11 21 42" src="https://github.com/KaliProgrammer/WeatherApp/assets/100012767/378aff49-7362-4e95-beb7-c00eea287ca5">
 
